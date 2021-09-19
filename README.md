@@ -42,7 +42,9 @@ and add it to Plugin/lsp.lua
     ```local servers = { 'pyright', 'clangd', 'html' }```
 
 To change/see general keymappings reffer to ```init.vim```
+
 To change/see lsp specific mappings see ```Plugin/lsp.lua```
+
 To change/see completion specific mappings see ```Plugin/nvim-cmp.lua```
 
 To configure/change colorscheme see ```Plugin/color-config.vim```
