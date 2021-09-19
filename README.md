@@ -44,3 +44,6 @@ To change/see lsp specific mappings see Plugin/lsp.lua
 To change/see completion specific mappings see Plugin/nvim-cmp.lua
 
 To configure/change colorscheme see Plugin/color-config.vim
+
+remove annoying author name or change it to yours by going to 
+Plugin/alpha-nvim.lua ;)
