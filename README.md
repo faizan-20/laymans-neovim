@@ -1,2 +1,2 @@
-# laymans--neo-vim
+# laymans-neovim
 nvim configurations for a layman
