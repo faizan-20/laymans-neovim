@@ -39,6 +39,7 @@ readable.
 
 To add more language to LSP service install the proper language protocol ([reference](https://github.com/neovim/nvim-lspconfig/blob/master/CONFIG.md))
 and add it to Plugin/lsp.lua
+
 ```local servers = { 'pyright', 'clangd', 'html' }```
 
 To change/see general keymappings reffer to ```init.vim```
