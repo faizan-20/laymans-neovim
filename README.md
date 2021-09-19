@@ -2,7 +2,7 @@
 nvim configurations for a layman
  - easy to use and understandable configurations to build upon or use as it is
 
-![example pic](~/laymans-neovim/lm-nvim.png)
+![example pic](https://raw.githubusercontent.com/faizan-20/laymans-neovim/main/lm-nvim.png)
 
 # Features
  - Easy to use
