@@ -7,6 +7,7 @@ nvim configurations for a layman
 # Features
  - Easy to use
  - native lsp with completion and diagnostics
+ - powerfull syntax
  - sane defaults
  - looks good
 
