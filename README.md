@@ -3,7 +3,6 @@ nvim configurations for a layman
  - easy to use and understandable configurations to build upon or use as it is
 
 ![example pic](https://raw.githubusercontent.com/faizan-20/laymans-neovim/main/lm-nvim.png)
-![example_gif](https://kapwi.ng/c/OU4fKB0Z6j)
 ![example gif](https://media.giphy.com/media/40dk6wwgwHxPrrqhUK/giphy.gif?cid=790b76119d5bdd1ddb9b035b920da25564972d0a33d65d09&rid=giphy.gif)
 
 # Features
