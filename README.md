@@ -9,6 +9,7 @@ nvim configurations for a layman
  - native lsp with completion and diagnostics
  - powerfull syntax
  - sane defaults
+ - lightweight
  - looks good
 
 ## Requirements
