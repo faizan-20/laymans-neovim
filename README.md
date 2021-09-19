@@ -11,7 +11,7 @@ nvim configurations for a layman
  - looks good
 
 ## Requirements
-1. Latest stable neovim
+1. Latest stable [neovim](https://github.com/neovim/neovim)
 
 # How to install
 1. git clone the repositiory
