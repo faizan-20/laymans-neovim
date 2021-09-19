@@ -15,12 +15,19 @@ nvim configurations for a layman
 
 # How to install
 1. git clone the repositiory
+    
     ```git clone https://github.com/faizan-20/laymans-neovim```
+
 2. copy nvim to ~/.config/
+    
     ```cp laymans-neovim/nvim ~/.config```
+
 3. create a folder for plugins
+    
     ```mkdir ~/.vim/plugged```
+
 4. open vim
+    
     ```:PlugInstall```
 
 ## Additional Features / Hacking Guide
